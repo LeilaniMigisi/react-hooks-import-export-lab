@@ -1,4 +1,7 @@
 import React from "react";
+import NavBar from "/home/leilani/react-hooks-import-export-lab/src/components/NavBar.js";
+import Home from "/home/leilani/react-hooks-import-export-lab/src/components/Home.js";
+import About from "/home/leilani/react-hooks-import-export-lab/src/components/About.js";
 
 function App() {
   return (
